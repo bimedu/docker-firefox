@@ -1,3 +1,3 @@
-from	ubuntu:12.04
+from	nginx
 COPY README.md  /tmp
 
